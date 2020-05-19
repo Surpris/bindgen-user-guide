@@ -1,0 +1,4 @@
+# [target.x86_64-pc-windows-gnu]
+# rustflags=["-Clink-arg=-lworkaround_47048"]
+# linker="C:\\PRogram Files\\LLVM\\bin\\clang.exe"
+# ar="C:\\msys64\\mingw64\\bin\\ar.exe"
